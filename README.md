@@ -1,8 +1,7 @@
 # Breeder
 
 The best App to find the best husband for your pet
-
-![example](https://github.com/Mo-Adeeb-Alkahat/breeder/blob/main/example.png)
+![example](https://github.com/Mo-Adeeb-Alkahat/Breeder/blob/main/exanple.jpg)
 
 ## Quick start
 
